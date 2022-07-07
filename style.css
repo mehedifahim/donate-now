@@ -10,7 +10,7 @@ body{
     text-align: center;
     background-image: url(images/donation7.jpg);
     background-repeat: no-repeat;
-    color:rgb(204, 206, 207);
+    color:rgb(231, 239, 243);
     height: 500px;
     margin: 0px;
     padding-top:150px;
@@ -86,7 +86,7 @@ body{
     
 }
 .second-sec h1{
-    font-size: 35px;
+    font-size: 40px;
 }
 #tk500{
     border: 2px solid tomato;
@@ -105,6 +105,7 @@ body{
     margin-top: 90px;
     text-align: center;
     font-size: 30px;
+    font-size: 40px;
 }
 #para{
     text-align: center;
@@ -146,9 +147,13 @@ body{
     width:25em;
     
 }
+
 #sec4{
     margin-left: 50px;
     margin-top: 100px;
+}
+#sec4 h1{
+    font-size: 40px;
 }
 
 .fourth-sec a{
@@ -178,6 +183,16 @@ body{
 #fifth{
     margin-top: 100px;
     text-align: center;
+}
+#fifth h1{
+    font-size: 40px;
+}
+#fifth p{
+    margin-left: 250px;
+    margin-right: 250px;
+    font-size: 18px;
+    padding-top: 25px;
+    padding-bottom: 30px;
 }
 .sub input{
     border:0;
