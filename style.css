@@ -101,12 +101,12 @@ body{
     display: flex;
 }
 .flex-cont2 div{
+    
     color: rgb(45, 36, 27);
     border-radius: 5px;
     background-color: aliceblue;
-    padding:18px;
     border: 1px solid aliceblue;
+    padding:50px 20px;
     margin:10px
-    
     
 }
